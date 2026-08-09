@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "snake",
+    "title": "Google Snake",
+    "thumbnail": "https://www.google.com/logos/2010/snake10-hp.png",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+    "url": "https://play2048.co/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "thumbnail": "https://via.placeholder.com/150/222222/ffffff?text=Tetris",
+    "url": "https://tetris.com/play-tetris"
+  }
+]
